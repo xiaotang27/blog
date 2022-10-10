@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://xiaotang27.github.io/blog</id>
+    <title>Xiaotang27&apos;s blog</title>
+    <updated>2022-10-10T14:17:28.520Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://xiaotang27.github.io/blog"/>
+    <link rel="self" href="https://xiaotang27.github.io/blog/atom.xml"/>
+    <subtitle>Xiaotang27的博客小站哦</subtitle>
+    <logo>https://xiaotang27.github.io/blog/images/avatar.png</logo>
+    <icon>https://xiaotang27.github.io/blog/favicon.ico</icon>
+    <rights>All rights reserved 2022, Xiaotang27&apos;s blog</rights>
+    <entry>
+        <title type="html"><![CDATA[天津开学第三天，初中是在太累的]]></title>
+        <id>https://xiaotang27.github.io/blog/post/tian-jin-kai-xue-di-san-tian-chu-zhong-shi-zai-tai-lei-de/</id>
+        <link href="https://xiaotang27.github.io/blog/post/tian-jin-kai-xue-di-san-tian-chu-zhong-shi-zai-tai-lei-de/">
+        </link>
+        <updated>2022-10-10T14:12:57.000Z</updated>
+        <content type="html"><![CDATA[<p>今天已经是天津开学的第三天了。这几天我感受到的只有一个字——累！</p>
+<p>初一就已经这么累的。好卷。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[臭作文]]></title>
+        <id>https://xiaotang27.github.io/blog/post/chou-zuo-wen/</id>
+        <link href="https://xiaotang27.github.io/blog/post/chou-zuo-wen/">
+        </link>
+        <updated>2022-10-02T07:18:59.000Z</updated>
+        <content type="html"><![CDATA[<p>今天写个作文，电脑上打草稿<br>
+写到一半：<img src="https://xiaotang27.github.io/blog/post-images/1664695163520.png" alt="" loading="lazy"><br>
+514字，你是一个一个一个作文啊（悲</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【教程向】blockbench中列车转向架的制作]]></title>
+        <id>https://xiaotang27.github.io/blog/post/jiao-cheng-xiang-blockbench-zhong-lie-che-zhuan-xiang-jia-de-zhi-zuo/</id>
+        <link href="https://xiaotang27.github.io/blog/post/jiao-cheng-xiang-blockbench-zhong-lie-che-zhuan-xiang-jia-de-zhi-zuo/">
+        </link>
+        <updated>2022-09-30T09:54:23.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="前排提示本博客也在mtrbbs中同步发布">前排提示：本博客也在MTRBBS中同步发布</h1>
+<p>在MTR模组更新资源包创建工具后，使用自己的模型制作列车追加更加方便。但是用这种方法制作出的追加有一个问题，就是他没有原版的转向架。这会导致列车在轨道浮空，非常不真实。<s>返祖现象了属于是</s><br>
+所以我们可以自己制作转向架。<br>
+转向架会包含圆形的车轮，但是在blockbench中只有方形方块，但很多大佬的转向架都是圆形的。这个问题曾一度困扰我很久，但最近我在查看一些资源包的bbmodel源文件的时候，发现了一个很神奇的事情：你所看到的圆，其实是多个方块组成的。下面将为大家介绍如何在blockbench中做圆形。</p>
+<p>最简单粗暴的方式是直接弄一个扁平的方块，然后画上贴图，但这种方法的真实性，就无需多说。如果要使用建模的方法，可以先做一个方块，调整好长宽（一般的车长宽比1:1就好，长和宽也为1个blockbench中的格），高度则设置为你的圆形的半径（比如我要做直径一格的圆，就弄8个blockbench中格子的高度）。</p>
+<p>然后复制这个方块，在旋转一下刚才复制的方块（每一次复制完成后最新的复制得到的方块就偏移2.5），然后再复制，再旋转，以此类推，直到形成一个完整的圆。<br>
+<img src="https://xiaotang27.github.io/blog/post-images/1664531777106.png" alt="" loading="lazy"></p>
+<p>你的建模文件可能会很大，因为就这个转向架可能就得600个方块（我这做的都不像样子）。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[琐碎的模组开发记录]]></title>
+        <id>https://xiaotang27.github.io/blog/post/suo-sui-de-mo-zu-kai-fa-ji-lu/</id>
+        <link href="https://xiaotang27.github.io/blog/post/suo-sui-de-mo-zu-kai-fa-ji-lu/">
+        </link>
+        <updated>2022-09-29T13:03:58.000Z</updated>
+        <content type="html"><![CDATA[<p>最近正在做一个新的模组</p>
+<p>是一个以现代交通为主题的装饰性模组，（如果可以的话）是MTR模组的一个扩展</p>
+<p>先放点图<img src="https://xiaotang27.github.io/blog/post-images/1664456724276.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的日记：博客站终于营业辣！]]></title>
+        <id>https://xiaotang27.github.io/blog/post/diary-1/</id>
+        <link href="https://xiaotang27.github.io/blog/post/diary-1/">
+        </link>
+        <updated>2022-09-29T09:45:08.000Z</updated>
+        <content type="html"><![CDATA[<p>今天是值得纪念的日子</p>
+<p>我的博客站终于营业辣！</p>
+<p>之前用Windows时候老是设置不好，原来是我TM写错域名了（</p>
+<p>所以push不上去</p>
+<p>但还是成功啦！！！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[测试文章]]></title>
+        <id>https://xiaotang27.github.io/blog/post/ce-shi-wen-zhang/</id>
+        <link href="https://xiaotang27.github.io/blog/post/ce-shi-wen-zhang/">
+        </link>
+        <updated>2022-09-29T08:58:10.000Z</updated>
+        <content type="html"><![CDATA[<p>这只是一个测试文章<br>
+By Xiaotang27</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://xiaotang27.github.io/blog/post/hello-gridea/</id>
+        <link href="https://xiaotang27.github.io/blog/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="https://gridea.dev/">Gridea 主页</a><br>
+<a href="https://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
